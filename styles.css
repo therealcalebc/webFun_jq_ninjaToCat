@@ -1,0 +1,20 @@
+#container {
+	width: 362px;
+	height: auto;
+	margin: auto;
+	/* display: flex;
+	flex-direction: column; */
+}
+
+h1 {
+	text-align: center;
+}
+
+img {
+	margin: 5px;
+	border: 0;
+	padding: 0;
+	width: 362px;
+	height: 84px;
+	object-fit: cover;
+}
